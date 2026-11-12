@@ -1,5 +1,5 @@
 # WDM-Ex.NO-6-Information-Retrieval-Using-Boolean-Model
-## Name: Dhanush G
+## Name: SOWMIYA G
 ## Date: 
 **AIM:** To implement Information Retrieval Using Boolean Model in Python.<br>
 **Description:**<br>
